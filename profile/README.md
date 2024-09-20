@@ -1,6 +1,6 @@
 # Think Think 🧠 🧠
 
-![Discord](https://img.shields.io/discord/1245952504341200957?style=flat&label=Discord)
+<a href="https://discord.gg/bUE6hzdmrh" style="float: right;"><img src="https://img.shields.io/discord/1245952504341200957?style=flat&label=Discord"></a>
 
 
 Welcome to **ThinkThink.ai**—where artificial intelligence meets innovative thinking. We are pioneering the development of AI-driven tools to make software development and database management more efficient, intuitive, and accessible.
